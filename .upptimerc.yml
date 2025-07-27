@@ -9,13 +9,32 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: NancyLoedy.com
+    url: https://nancyloedy.com
+  - name: Whole Minded Health
+    url: https://wholemindedhealth.com
+  - name: Crossinology
+    url: https://crossinology.com
+  - name: McKinney BI
+    url: https://mckinney-bi.com
+  - name: McKinney Physical Therapy
+    url: https://www.prescottpt.com
+  - name: Prescott BI
+    url: https://prescottbrainintegration.com/
+  - name: Google DNS 1
     check: "tcp-ping"
-    ipv6: true
+    url: 8.8.4.4
+    port: 53
+  - name: GoDaddy Server
+    check: "tcp-ping"
+    url: 50.62.146.67
+  - name: ShockHost Server
+    check: "tcp-ping"
+    url: 216.120.200.106
+  - name: BlueHost Server
+    check: "tcp-ping"
+    url: 162.241.30.65
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
