@@ -148,18 +148,20 @@
     "url": "https://prescottbrainintegration.com/",
     "icon": "https://icons.duckduckgo.com/ip3/prescottbrainintegration.com.ico",
     "slug": "prescott-bi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 18470,
     "timeDay": 18470,
     "timeWeek": 18470,
     "timeMonth": 18470,
     "timeYear": 18470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-02": 0
+    }
   },
   {
     "name": "Google DNS 1",
