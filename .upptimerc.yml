@@ -19,8 +19,6 @@ sites:
     url: https://mckinney-bi.com
   - name: McKinney Physical Therapy
     url: https://www.prescottpt.com
-  - name: Prescott BI
-    url: https://prescottbrainintegration.com/
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
