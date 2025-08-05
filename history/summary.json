@@ -130,9 +130,9 @@
     "url": "https://www.prescottpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.prescottpt.com.ico",
     "slug": "mc-kinney-physical-therapy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 400,
     "timeMonth": 400,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   },
   {
     "name": "Google DNS 1",
