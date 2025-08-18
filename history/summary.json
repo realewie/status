@@ -66,7 +66,7 @@
     "uptimeYear": "99.93%",
     "time": 722,
     "timeDay": 364,
-    "timeWeek": 839,
+    "timeWeek": 899,
     "timeMonth": 722,
     "timeYear": 722,
     "dailyMinutesDown": {
@@ -78,18 +78,20 @@
     "url": "https://wholemindedhealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/wholemindedhealth.com.ico",
     "slug": "whole-minded-health",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 660,
     "timeDay": 474,
     "timeWeek": 444,
     "timeMonth": 660,
     "timeYear": 660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-18": 1
+    }
   },
   {
     "name": "Crossinology",
@@ -104,7 +106,7 @@
     "uptimeYear": "99.93%",
     "time": 392,
     "timeDay": 338,
-    "timeWeek": 349,
+    "timeWeek": 350,
     "timeMonth": 392,
     "timeYear": 392,
     "dailyMinutesDown": {
@@ -116,10 +118,10 @@
     "url": "https://mckinney-bi.com",
     "icon": "https://icons.duckduckgo.com/ip3/mckinney-bi.com.ico",
     "slug": "mc-kinney-bi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
@@ -127,16 +129,18 @@
     "timeWeek": 920,
     "timeMonth": 687,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-18": 1
+    }
   },
   {
     "name": "McKinney Physical Therapy",
     "url": "https://www.prescottpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.prescottpt.com.ico",
     "slug": "mc-kinney-physical-therapy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -146,6 +150,7 @@
     "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {
+      "2025-08-18": 0,
       "2025-08-05": 16
     }
   },
